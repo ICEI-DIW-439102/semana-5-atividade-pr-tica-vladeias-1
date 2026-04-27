@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vitor Ladeia Sepulveda
+- Matricula: 914582
+- Proposta de projeto escolhida: Vida e Obra de C.S. Lewis
+- Breve descrição sobre seu projeto: Este site tem como tema o escritor C.S. Lewism apresentando sua biografia, principais obras e sua contribuição para a literatura.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="/public/ws-html.jpg" width="946" height="885" alt="Imagem do Site desktop" />
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="/public/mobile.jpg" width="946" height="885" alt="Imagem do Site monbile" />
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
